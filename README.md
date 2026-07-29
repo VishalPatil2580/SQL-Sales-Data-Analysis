@@ -279,7 +279,7 @@ The project answers questions related to:
 
 This screenshot shows the main tables created for the project.
 
-![Database Tables Overview](Screenshots/01_Database Tables Overview.png)
+![Database Tables Overview](Screenshots/01_Database_Tables_Overview.png)
 
 ---
 

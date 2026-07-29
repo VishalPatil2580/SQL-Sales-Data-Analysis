@@ -1,0 +1,201 @@
+product_id,product_name,category,subcategory,brand,price,cost
+P0001,Computers Model 1,Electronics,Computers,LG,46046.47,33066.17
+P0002,Computers Model 2,Electronics,Computers,LG,45012.34,30495.54
+P0003,Tables Model 3,Furniture,Tables,HP,20179.78,12178.08
+P0004,Accessories Model 4,Electronics,Accessories,LG,33279.98,21056.27
+P0005,Computers Model 5,Electronics,Computers,Lenovo,28498.35,18299.54
+P0006,Accessories Model 6,Electronics,Accessories,Sony,14416.99,9377.69
+P0007,Binders Model 7,Office Supplies,Binders,LG,16180.24,10591.99
+P0008,Computers Model 8,Electronics,Computers,Lenovo,23711.99,19335.07
+P0009,Paper Model 9,Office Supplies,Paper,LG,32976.65,19763.74
+P0010,Binders Model 10,Office Supplies,Binders,Lenovo,16825.89,13232.69
+P0011,Computers Model 11,Electronics,Computers,HP,15589.93,12195.96
+P0012,Phones Model 12,Electronics,Phones,Lenovo,12317.64,8207.22
+P0013,Accessories Model 13,Electronics,Accessories,HP,20780.61,14970.72
+P0014,Binders Model 14,Office Supplies,Binders,HP,19260.53,12324.4
+P0015,Binders Model 15,Office Supplies,Binders,Lenovo,376.69,287.35
+P0016,Accessories Model 16,Electronics,Accessories,LG,11020.17,8611.58
+P0017,Writing Model 17,Office Supplies,Writing,Lenovo,2605.9,1530.24
+P0018,Accessories Model 18,Electronics,Accessories,Sony,6753.62,4475.12
+P0019,Binders Model 19,Office Supplies,Binders,Apple,15933.17,12178.32
+P0020,Binders Model 20,Office Supplies,Binders,Sony,44611.81,28969.09
+P0021,Chairs Model 21,Furniture,Chairs,Samsung,37208.41,24785.86
+P0022,Computers Model 22,Electronics,Computers,Apple,13937.84,10762.61
+P0023,Paper Model 23,Office Supplies,Paper,Samsung,13802.41,7275.51
+P0024,Accessories Model 24,Electronics,Accessories,Dell,16858.79,13698.77
+P0025,Phones Model 25,Electronics,Phones,LG,11639.95,8647.11
+P0026,Phones Model 26,Electronics,Phones,Apple,20801.91,12809.99
+P0027,Chairs Model 27,Furniture,Chairs,Lenovo,10421.04,6742.94
+P0028,Binders Model 28,Office Supplies,Binders,Sony,1074.64,868.56
+P0029,Tables Model 29,Furniture,Tables,Lenovo,394.21,245.64
+P0030,Tables Model 30,Furniture,Tables,Lenovo,26957.21,20409.89
+P0031,Paper Model 31,Office Supplies,Paper,Apple,24462.65,14568.18
+P0032,Accessories Model 32,Electronics,Accessories,Apple,16872.86,12447.1
+P0033,Paper Model 33,Office Supplies,Paper,Sony,42041.23,34551.15
+P0034,Paper Model 34,Office Supplies,Paper,LG,45355.75,32073.88
+P0035,Phones Model 35,Electronics,Phones,Apple,32173.21,17614.67
+P0036,Phones Model 36,Electronics,Phones,Apple,13081.8,8039.73
+P0037,Tables Model 37,Furniture,Tables,Lenovo,38085.36,24096.39
+P0038,Tables Model 38,Furniture,Tables,LG,41762.05,27755.37
+P0039,Paper Model 39,Office Supplies,Paper,LG,49995.4,31121.44
+P0040,Computers Model 40,Electronics,Computers,HP,2108.88,1077.34
+P0041,Phones Model 41,Electronics,Phones,Apple,31104.65,18149.27
+P0042,Paper Model 42,Office Supplies,Paper,LG,28242.08,16275.56
+P0043,Tables Model 43,Furniture,Tables,LG,8472.68,6037.09
+P0044,Paper Model 44,Office Supplies,Paper,Samsung,38911.82,21686.26
+P0045,Computers Model 45,Electronics,Computers,LG,1381.35,841.5
+P0046,Tables Model 46,Furniture,Tables,Sony,47079.38,26807.73
+P0047,Binders Model 47,Office Supplies,Binders,Samsung,12218.18,9090.54
+P0048,Binders Model 48,Office Supplies,Binders,Sony,40295.85,31377.55
+P0049,Accessories Model 49,Electronics,Accessories,Dell,26683.99,19520.21
+P0050,Binders Model 50,Office Supplies,Binders,Lenovo,17127.44,13656.59
+P0051,Chairs Model 51,Furniture,Chairs,Lenovo,21732.82,13621.39
+P0052,Storage Model 52,Furniture,Storage,Sony,7734.26,4343.93
+P0053,Writing Model 53,Office Supplies,Writing,Lenovo,30834.03,25341.45
+P0054,Tables Model 54,Furniture,Tables,Samsung,21835.17,16504.31
+P0055,Chairs Model 55,Furniture,Chairs,Apple,41553.48,22037.14
+P0056,Accessories Model 56,Electronics,Accessories,Samsung,28535.5,20941.23
+P0057,Accessories Model 57,Electronics,Accessories,HP,42562.55,23990.12
+P0058,Tables Model 58,Furniture,Tables,LG,17082.91,13804.9
+P0059,Storage Model 59,Furniture,Storage,Dell,606.54,504.53
+P0060,Computers Model 60,Electronics,Computers,HP,20380.76,14150.6
+P0061,Writing Model 61,Office Supplies,Writing,Lenovo,32330.55,21719.26
+P0062,Phones Model 62,Electronics,Phones,HP,14782.36,9483.48
+P0063,Storage Model 63,Furniture,Storage,Sony,29119.62,19383.22
+P0064,Tables Model 64,Furniture,Tables,Samsung,49831.91,34515.37
+P0065,Writing Model 65,Office Supplies,Writing,Dell,13618.73,8007.69
+P0066,Paper Model 66,Office Supplies,Paper,Lenovo,15845.84,12042.97
+P0067,Paper Model 67,Office Supplies,Paper,Samsung,9657.89,7325.62
+P0068,Binders Model 68,Office Supplies,Binders,Samsung,48832.69,33383.15
+P0069,Phones Model 69,Electronics,Phones,Samsung,14882.7,9321.16
+P0070,Computers Model 70,Electronics,Computers,Dell,26753.34,15945.23
+P0071,Writing Model 71,Office Supplies,Writing,Lenovo,34901.13,18993.12
+P0072,Chairs Model 72,Furniture,Chairs,Apple,43648.71,30594.36
+P0073,Tables Model 73,Furniture,Tables,Samsung,17101.23,14329.53
+P0074,Chairs Model 74,Furniture,Chairs,Dell,41123.57,26329.27
+P0075,Binders Model 75,Office Supplies,Binders,Lenovo,34353.91,19001.3
+P0076,Writing Model 76,Office Supplies,Writing,Sony,4350.53,2553.18
+P0077,Storage Model 77,Furniture,Storage,Lenovo,29846.73,21383.58
+P0078,Writing Model 78,Office Supplies,Writing,Lenovo,22580.67,14789.26
+P0079,Writing Model 79,Office Supplies,Writing,Sony,15338.47,11003.2
+P0080,Paper Model 80,Office Supplies,Paper,HP,47384.75,27138.47
+P0081,Storage Model 81,Furniture,Storage,Sony,4151.25,2424.13
+P0082,Phones Model 82,Electronics,Phones,Sony,233.52,153.58
+P0083,Tables Model 83,Furniture,Tables,Samsung,1728.73,1038.68
+P0084,Writing Model 84,Office Supplies,Writing,Samsung,3651.87,2124.29
+P0085,Binders Model 85,Office Supplies,Binders,Apple,33093.03,27360.79
+P0086,Computers Model 86,Electronics,Computers,Samsung,11317.99,6249.19
+P0087,Phones Model 87,Electronics,Phones,Sony,3075.94,2391.3
+P0088,Binders Model 88,Office Supplies,Binders,Apple,46067.51,30114.5
+P0089,Writing Model 89,Office Supplies,Writing,Sony,35016.71,29061.65
+P0090,Writing Model 90,Office Supplies,Writing,Apple,21944.17,15565.28
+P0091,Writing Model 91,Office Supplies,Writing,HP,30225.31,15386.28
+P0092,Binders Model 92,Office Supplies,Binders,Lenovo,29397.43,14912.17
+P0093,Writing Model 93,Office Supplies,Writing,HP,28854.72,22134.11
+P0094,Storage Model 94,Furniture,Storage,HP,32610.32,26760.86
+P0095,Writing Model 95,Office Supplies,Writing,Dell,31775.76,21356.62
+P0096,Tables Model 96,Furniture,Tables,Dell,20476.57,12539.25
+P0097,Accessories Model 97,Electronics,Accessories,LG,20641.09,13900.0
+P0098,Storage Model 98,Furniture,Storage,Samsung,1931.19,1025.12
+P0099,Chairs Model 99,Furniture,Chairs,Sony,48512.22,31118.71
+P0100,Computers Model 100,Electronics,Computers,Dell,43481.44,28771.31
+P0101,Computers Model 101,Electronics,Computers,LG,18152.79,13882.44
+P0102,Chairs Model 102,Furniture,Chairs,Samsung,10257.56,7100.56
+P0103,Storage Model 103,Furniture,Storage,LG,24287.12,12388.96
+P0104,Paper Model 104,Office Supplies,Paper,Dell,35518.16,21622.13
+P0105,Writing Model 105,Office Supplies,Writing,Dell,4751.14,4025.59
+P0106,Chairs Model 106,Furniture,Chairs,LG,32420.71,17957.5
+P0107,Storage Model 107,Furniture,Storage,Apple,35300.04,22783.41
+P0108,Chairs Model 108,Furniture,Chairs,HP,22893.64,12605.8
+P0109,Binders Model 109,Office Supplies,Binders,Dell,37340.0,20454.03
+P0110,Tables Model 110,Furniture,Tables,Samsung,17059.77,13233.28
+P0111,Accessories Model 111,Electronics,Accessories,Sony,36329.94,28813.88
+P0112,Writing Model 112,Office Supplies,Writing,Apple,43276.5,28402.0
+P0113,Tables Model 113,Furniture,Tables,Apple,27640.68,19077.61
+P0114,Chairs Model 114,Furniture,Chairs,Apple,49040.65,28619.24
+P0115,Accessories Model 115,Electronics,Accessories,LG,2278.0,1732.75
+P0116,Tables Model 116,Furniture,Tables,LG,49421.86,38417.48
+P0117,Accessories Model 117,Electronics,Accessories,Sony,48244.74,26254.12
+P0118,Chairs Model 118,Furniture,Chairs,Sony,43722.1,28598.94
+P0119,Chairs Model 119,Furniture,Chairs,LG,36149.95,23262.22
+P0120,Phones Model 120,Electronics,Phones,Samsung,23527.58,19744.85
+P0121,Binders Model 121,Office Supplies,Binders,Samsung,19934.42,10527.57
+P0122,Binders Model 122,Office Supplies,Binders,LG,19062.47,11643.96
+P0123,Storage Model 123,Furniture,Storage,LG,1891.37,990.98
+P0124,Writing Model 124,Office Supplies,Writing,Apple,49871.55,37970.61
+P0125,Computers Model 125,Electronics,Computers,HP,35224.15,18851.17
+P0126,Writing Model 126,Office Supplies,Writing,Lenovo,45180.86,23317.7
+P0127,Accessories Model 127,Electronics,Accessories,HP,17987.32,11705.08
+P0128,Writing Model 128,Office Supplies,Writing,HP,28339.81,22030.85
+P0129,Phones Model 129,Electronics,Phones,LG,30513.64,19342.31
+P0130,Accessories Model 130,Electronics,Accessories,Apple,45650.17,25111.76
+P0131,Writing Model 131,Office Supplies,Writing,Lenovo,23032.57,16891.95
+P0132,Tables Model 132,Furniture,Tables,Apple,33912.78,18831.48
+P0133,Storage Model 133,Furniture,Storage,LG,15027.8,12573.91
+P0134,Tables Model 134,Furniture,Tables,Apple,42280.67,24088.39
+P0135,Chairs Model 135,Furniture,Chairs,Sony,11936.56,8357.66
+P0136,Storage Model 136,Furniture,Storage,LG,14832.01,12492.71
+P0137,Tables Model 137,Furniture,Tables,Lenovo,504.09,404.67
+P0138,Paper Model 138,Office Supplies,Paper,Lenovo,45539.79,34647.14
+P0139,Chairs Model 139,Furniture,Chairs,LG,30392.54,18944.05
+P0140,Computers Model 140,Electronics,Computers,Lenovo,12606.28,9636.9
+P0141,Binders Model 141,Office Supplies,Binders,LG,41933.02,30187.03
+P0142,Paper Model 142,Office Supplies,Paper,Sony,15515.75,10151.77
+P0143,Storage Model 143,Furniture,Storage,Samsung,6657.45,5448.26
+P0144,Writing Model 144,Office Supplies,Writing,Sony,8864.44,4842.25
+P0145,Storage Model 145,Furniture,Storage,HP,25139.56,14967.71
+P0146,Tables Model 146,Furniture,Tables,Lenovo,48372.47,29183.09
+P0147,Chairs Model 147,Furniture,Chairs,Lenovo,23469.74,12353.41
+P0148,Computers Model 148,Electronics,Computers,Lenovo,36238.41,30548.25
+P0149,Writing Model 149,Office Supplies,Writing,Samsung,4606.11,2939.16
+P0150,Paper Model 150,Office Supplies,Paper,LG,22793.82,16764.63
+P0151,Storage Model 151,Furniture,Storage,Samsung,19113.17,13828.23
+P0152,Computers Model 152,Electronics,Computers,Sony,11767.71,5986.92
+P0153,Storage Model 153,Furniture,Storage,Lenovo,11146.22,5819.73
+P0154,Storage Model 154,Furniture,Storage,HP,15179.29,9758.82
+P0155,Phones Model 155,Electronics,Phones,Dell,15287.79,10279.79
+P0156,Computers Model 156,Electronics,Computers,LG,6869.64,4525.55
+P0157,Binders Model 157,Office Supplies,Binders,LG,47304.11,30591.3
+P0158,Paper Model 158,Office Supplies,Paper,Lenovo,44282.15,32291.55
+P0159,Storage Model 159,Furniture,Storage,Dell,20464.98,17047.99
+P0160,Writing Model 160,Office Supplies,Writing,HP,10941.76,7173.89
+P0161,Chairs Model 161,Furniture,Chairs,LG,49048.29,30830.15
+P0162,Chairs Model 162,Furniture,Chairs,Dell,19967.17,11310.06
+P0163,Chairs Model 163,Furniture,Chairs,Sony,33172.16,24036.43
+P0164,Phones Model 164,Electronics,Phones,HP,39361.05,23036.02
+P0165,Paper Model 165,Office Supplies,Paper,HP,3523.65,2705.48
+P0166,Paper Model 166,Office Supplies,Paper,Lenovo,40671.34,23652.4
+P0167,Computers Model 167,Electronics,Computers,HP,241.49,193.3
+P0168,Computers Model 168,Electronics,Computers,LG,12607.64,7073.82
+P0169,Phones Model 169,Electronics,Phones,HP,841.53,653.44
+P0170,Writing Model 170,Office Supplies,Writing,HP,887.48,526.17
+P0171,Writing Model 171,Office Supplies,Writing,Apple,26351.67,20053.17
+P0172,Tables Model 172,Furniture,Tables,Sony,25710.57,13836.63
+P0173,Computers Model 173,Electronics,Computers,Lenovo,2263.92,1752.57
+P0174,Binders Model 174,Office Supplies,Binders,Dell,15151.35,10987.29
+P0175,Accessories Model 175,Electronics,Accessories,Dell,42380.2,27513.05
+P0176,Storage Model 176,Furniture,Storage,Dell,45494.07,23917.22
+P0177,Storage Model 177,Furniture,Storage,Sony,7501.86,4082.27
+P0178,Binders Model 178,Office Supplies,Binders,Sony,27462.99,16857.19
+P0179,Writing Model 179,Office Supplies,Writing,Dell,22740.4,16188.88
+P0180,Paper Model 180,Office Supplies,Paper,Lenovo,42654.36,31044.73
+P0181,Binders Model 181,Office Supplies,Binders,HP,43288.07,28159.95
+P0182,Tables Model 182,Furniture,Tables,LG,41388.22,26470.07
+P0183,Accessories Model 183,Electronics,Accessories,Samsung,21395.52,15678.38
+P0184,Computers Model 184,Electronics,Computers,Lenovo,46156.95,24163.01
+P0185,Phones Model 185,Electronics,Phones,Samsung,21650.64,16467.61
+P0186,Computers Model 186,Electronics,Computers,Sony,3093.05,2582.14
+P0187,Storage Model 187,Furniture,Storage,LG,6199.34,3866.9
+P0188,Storage Model 188,Furniture,Storage,Samsung,2667.16,1602.08
+P0189,Chairs Model 189,Furniture,Chairs,LG,28938.13,16623.76
+P0190,Chairs Model 190,Furniture,Chairs,Sony,42379.01,26382.62
+P0191,Chairs Model 191,Furniture,Chairs,Lenovo,38154.02,26743.49
+P0192,Storage Model 192,Furniture,Storage,Sony,48729.88,38323.58
+P0193,Binders Model 193,Office Supplies,Binders,LG,27881.31,19883.51
+P0194,Writing Model 194,Office Supplies,Writing,Lenovo,1544.76,920.13
+P0195,Tables Model 195,Furniture,Tables,HP,17616.07,9926.51
+P0196,Binders Model 196,Office Supplies,Binders,LG,20099.14,11047.62
+P0197,Phones Model 197,Electronics,Phones,Apple,37330.98,21476.38
+P0198,Tables Model 198,Furniture,Tables,Samsung,7954.72,4845.01
+P0199,Binders Model 199,Office Supplies,Binders,HP,4339.36,2249.58
+P0200,Paper Model 200,Office Supplies,Paper,LG,33731.04,20077.93

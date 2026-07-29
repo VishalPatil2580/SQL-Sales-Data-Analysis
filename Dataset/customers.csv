@@ -1,0 +1,301 @@
+customer_id,first_name,last_name,city,state,signup_date,segment
+C0001,Thomas,Campbell,Hyderabad,India,2022-07-12,Consumer
+C0002,Sherry,Fernandez,Mumbai,India,2023-01-28,Home Office
+C0003,Sharon,Santos,Pune,India,2026-04-14,Consumer
+C0004,Matthew,Smith,Delhi,India,2024-12-01,Consumer
+C0005,Scott,Young,Hyderabad,India,2022-10-17,Consumer
+C0006,Barbara,White,Hyderabad,India,2024-11-24,Home Office
+C0007,Larry,Sharp,Chennai,India,2024-10-31,Consumer
+C0008,Michelle,Jackson,Chennai,India,2023-05-04,Corporate
+C0009,Trevor,Blackwell,Mumbai,India,2024-08-14,Consumer
+C0010,Kimberly,Lewis,Mumbai,India,2024-09-17,Consumer
+C0011,Karen,Tate,Delhi,India,2024-02-21,Home Office
+C0012,Terry,Moore,Chennai,India,2026-02-03,Consumer
+C0013,William,Ortiz,Chennai,India,2026-06-21,Consumer
+C0014,Mason,Carey,Hyderabad,India,2025-03-09,Home Office
+C0015,Cody,Patterson,Hyderabad,India,2023-01-18,Home Office
+C0016,Ricky,Jones,Bangalore,India,2022-09-17,Consumer
+C0017,Robert,Newman,Bangalore,India,2026-01-28,Home Office
+C0018,Jake,Mendoza,Pune,India,2023-08-11,Consumer
+C0019,Anna,Benjamin,Kolkata,India,2023-06-03,Consumer
+C0020,William,Alvarez,Hyderabad,India,2023-03-20,Corporate
+C0021,Jose,Rodriguez,Pune,India,2022-10-18,Corporate
+C0022,Steven,Bailey,Delhi,India,2023-10-29,Consumer
+C0023,Barry,Dennis,Kolkata,India,2024-07-13,Corporate
+C0024,Erin,Finley,Mumbai,India,2026-04-20,Consumer
+C0025,Jennifer,Meyer,Bangalore,India,2023-09-13,Consumer
+C0026,Corey,Reid,Pune,India,2022-11-26,Corporate
+C0027,Timothy,Harris,Chennai,India,2025-02-19,Corporate
+C0028,Victoria,Maddox,Kolkata,India,2022-11-23,Consumer
+C0029,Tracie,Rowe,Hyderabad,India,2023-03-25,Corporate
+C0030,Sherri,Lee,Chennai,India,2024-07-15,Consumer
+C0031,Amanda,Armstrong,Bangalore,India,2022-10-31,Consumer
+C0032,Patrick,Smith,Chennai,India,2024-03-08,Corporate
+C0033,Brandy,Smith,Kolkata,India,2024-10-20,Home Office
+C0034,Stephanie,Stewart,Chennai,India,2025-11-12,Corporate
+C0035,Kelly,Garza,Chennai,India,2024-12-29,Consumer
+C0036,Alyssa,Kelley,Hyderabad,India,2026-03-09,Consumer
+C0037,Alexis,Gilbert,Mumbai,India,2025-04-08,Home Office
+C0038,Benjamin,Ball,Delhi,India,2024-04-21,Corporate
+C0039,Carrie,Olson,Mumbai,India,2026-03-20,Consumer
+C0040,Courtney,Nguyen,Kolkata,India,2025-12-15,Consumer
+C0041,Ashley,Goodman,Bangalore,India,2024-11-20,Corporate
+C0042,Whitney,Lawson,Bangalore,India,2023-08-07,Home Office
+C0043,Mary,Norris,Kolkata,India,2026-01-02,Corporate
+C0044,Jonathan,Simon,Delhi,India,2022-08-21,Corporate
+C0045,Christine,Harris,Pune,India,2024-08-24,Consumer
+C0046,Gary,Gutierrez,Hyderabad,India,2023-01-27,Corporate
+C0047,Paul,Garcia,Hyderabad,India,2023-04-13,Home Office
+C0048,Susan,French,Hyderabad,India,2023-09-16,Consumer
+C0049,Amanda,Ford,Chennai,India,2023-08-01,Home Office
+C0050,Karen,Greene,Delhi,India,2026-04-10,Home Office
+C0051,Adam,Zuniga,Hyderabad,India,2023-01-05,Consumer
+C0052,Shawn,Richards,Delhi,India,2025-12-26,Corporate
+C0053,Kevin,Cisneros,Bangalore,India,2025-07-03,Corporate
+C0054,Alexander,Andrade,Hyderabad,India,2022-12-19,Home Office
+C0055,Adam,Wells,Chennai,India,2023-09-16,Consumer
+C0056,Brandon,Mccall,Hyderabad,India,2025-09-24,Corporate
+C0057,George,Lee,Kolkata,India,2024-07-14,Consumer
+C0058,Kent,Nelson,Delhi,India,2022-11-07,Consumer
+C0059,Nicole,Allen,Kolkata,India,2024-08-22,Corporate
+C0060,Tina,Newton,Bangalore,India,2025-10-04,Corporate
+C0061,Alex,Blackwell,Mumbai,India,2024-10-22,Consumer
+C0062,Jane,Gallagher,Chennai,India,2025-06-04,Home Office
+C0063,Mary,Hunter,Pune,India,2024-04-13,Consumer
+C0064,Brad,Long,Hyderabad,India,2022-10-05,Corporate
+C0065,Brandon,Wright,Bangalore,India,2024-04-06,Home Office
+C0066,Nancy,Watson,Bangalore,India,2025-04-16,Consumer
+C0067,Charlene,Vargas,Pune,India,2024-01-07,Consumer
+C0068,Emma,Ortega,Delhi,India,2024-05-09,Home Office
+C0069,Brendan,Tate,Chennai,India,2023-05-24,Home Office
+C0070,Nicole,Murphy,Pune,India,2024-06-19,Home Office
+C0071,Zachary,Williams,Chennai,India,2023-03-01,Corporate
+C0072,Kenneth,Howell,Chennai,India,2026-04-08,Corporate
+C0073,Ashley,Sanchez,Pune,India,2025-08-28,Consumer
+C0074,Patricia,Wu,Delhi,India,2022-09-09,Home Office
+C0075,Jennifer,Valdez,Bangalore,India,2024-07-11,Consumer
+C0076,Robert,Spencer,Kolkata,India,2023-03-19,Consumer
+C0077,Melinda,Brown,Kolkata,India,2026-02-22,Consumer
+C0078,Mallory,Hurst,Delhi,India,2025-02-12,Home Office
+C0079,Jamie,Hobbs,Delhi,India,2026-04-24,Home Office
+C0080,Christopher,Rice,Bangalore,India,2026-06-25,Home Office
+C0081,Nicholas,Nichols,Mumbai,India,2023-07-08,Corporate
+C0082,Craig,Jimenez,Bangalore,India,2023-05-24,Home Office
+C0083,Tracy,Waller,Bangalore,India,2025-04-07,Home Office
+C0084,Samuel,Garcia,Pune,India,2025-02-28,Home Office
+C0085,Larry,Collins,Kolkata,India,2023-06-10,Consumer
+C0086,Brittany,Chambers,Hyderabad,India,2026-03-30,Home Office
+C0087,Erica,Perez,Mumbai,India,2022-12-05,Home Office
+C0088,Hector,Rodriguez,Chennai,India,2023-05-31,Corporate
+C0089,Stephanie,Tapia,Kolkata,India,2022-11-11,Home Office
+C0090,Shane,Hall,Pune,India,2026-06-15,Consumer
+C0091,Destiny,Morrison,Pune,India,2023-04-15,Corporate
+C0092,Jenny,Hernandez,Delhi,India,2023-09-04,Corporate
+C0093,Kayla,Chandler,Mumbai,India,2024-11-11,Home Office
+C0094,Jeffrey,Hayes,Hyderabad,India,2026-05-11,Corporate
+C0095,Brittney,Scott,Chennai,India,2026-01-05,Consumer
+C0096,Amber,Reynolds,Chennai,India,2022-07-29,Consumer
+C0097,Matthew,Edwards,Kolkata,India,2023-10-22,Home Office
+C0098,Joseph,Evans,Pune,India,2023-12-19,Home Office
+C0099,Robert,Allen,Chennai,India,2024-01-19,Home Office
+C0100,Donald,Marshall,Delhi,India,2024-09-25,Consumer
+C0101,Betty,Jones,Pune,India,2024-02-29,Consumer
+C0102,Rachel,Preston,Chennai,India,2025-08-17,Home Office
+C0103,Patricia,Fisher,Mumbai,India,2023-08-01,Home Office
+C0104,Christopher,Henry,Pune,India,2026-01-27,Corporate
+C0105,Randy,Gregory,Mumbai,India,2023-07-13,Consumer
+C0106,Gregory,Mccormick,Pune,India,2025-04-12,Corporate
+C0107,Mario,Ross,Delhi,India,2025-04-04,Consumer
+C0108,Michael,Lucero,Delhi,India,2023-07-19,Home Office
+C0109,Nicholas,Key,Mumbai,India,2022-12-22,Consumer
+C0110,David,Lee,Hyderabad,India,2024-05-01,Corporate
+C0111,Michelle,Werner,Kolkata,India,2025-12-29,Consumer
+C0112,Michael,Jones,Kolkata,India,2026-01-28,Home Office
+C0113,Lindsay,Smith,Kolkata,India,2024-05-14,Consumer
+C0114,Matthew,Kirk,Delhi,India,2023-02-08,Home Office
+C0115,Amber,Chung,Bangalore,India,2025-07-15,Home Office
+C0116,Andrew,Schmitt,Delhi,India,2026-02-07,Corporate
+C0117,Kelly,Conley,Chennai,India,2022-09-05,Home Office
+C0118,Crystal,Richards,Bangalore,India,2024-04-10,Consumer
+C0119,Emily,Smith,Chennai,India,2022-11-16,Home Office
+C0120,Patrick,Miller,Hyderabad,India,2023-07-31,Consumer
+C0121,Shawn,Jensen,Hyderabad,India,2023-05-06,Corporate
+C0122,Regina,Greene,Bangalore,India,2023-09-14,Home Office
+C0123,Jennifer,Roberts,Hyderabad,India,2025-11-08,Corporate
+C0124,Jeremy,Smith,Bangalore,India,2024-06-21,Home Office
+C0125,Charles,Ramirez,Bangalore,India,2026-04-03,Consumer
+C0126,Timothy,Thomas,Delhi,India,2022-11-09,Consumer
+C0127,Jonathan,Jones,Mumbai,India,2025-10-25,Corporate
+C0128,Veronica,Perez,Mumbai,India,2023-12-17,Home Office
+C0129,Ashley,Thompson,Chennai,India,2023-09-06,Consumer
+C0130,Michael,Peters,Chennai,India,2023-03-07,Consumer
+C0131,Kurt,Boyle,Mumbai,India,2024-08-27,Consumer
+C0132,James,Lewis,Hyderabad,India,2023-11-21,Home Office
+C0133,Timothy,Moran,Mumbai,India,2022-09-14,Consumer
+C0134,Jeffery,Garcia,Mumbai,India,2024-11-13,Consumer
+C0135,Ashley,Alvarado,Kolkata,India,2024-01-28,Corporate
+C0136,Eric,Christensen,Mumbai,India,2023-05-29,Home Office
+C0137,Matthew,Thompson,Delhi,India,2024-05-26,Corporate
+C0138,Gregory,Miles,Hyderabad,India,2024-07-26,Corporate
+C0139,Francisco,Schwartz,Delhi,India,2025-04-28,Home Office
+C0140,Valerie,Daniels,Delhi,India,2025-08-02,Home Office
+C0141,Zachary,Blackwell,Chennai,India,2022-07-31,Home Office
+C0142,Samantha,Lawrence,Bangalore,India,2026-02-07,Consumer
+C0143,Kimberly,Cook,Kolkata,India,2023-12-08,Corporate
+C0144,Michael,Villegas,Kolkata,India,2023-07-31,Corporate
+C0145,Linda,Dixon,Delhi,India,2024-06-11,Consumer
+C0146,Jay,Thomas,Mumbai,India,2023-06-03,Home Office
+C0147,Savannah,Hall,Bangalore,India,2023-12-23,Corporate
+C0148,Margaret,Krueger,Bangalore,India,2023-05-07,Corporate
+C0149,Jessica,Barnett,Bangalore,India,2023-09-08,Home Office
+C0150,Lori,Martinez,Mumbai,India,2025-09-13,Home Office
+C0151,Chelsea,Melton,Hyderabad,India,2024-07-13,Home Office
+C0152,Raven,Foley,Mumbai,India,2023-03-23,Consumer
+C0153,Seth,Boyd,Bangalore,India,2025-06-16,Home Office
+C0154,Kimberly,Callahan,Pune,India,2024-12-31,Consumer
+C0155,Jose,Blair,Delhi,India,2024-03-18,Consumer
+C0156,Todd,Williams,Delhi,India,2022-11-16,Home Office
+C0157,Connie,Martinez,Bangalore,India,2023-08-18,Consumer
+C0158,Natasha,Ellis,Bangalore,India,2026-01-27,Consumer
+C0159,Jamie,Jones,Pune,India,2024-08-05,Corporate
+C0160,Rachel,Moore,Delhi,India,2024-09-15,Consumer
+C0161,Carol,West,Bangalore,India,2023-10-07,Home Office
+C0162,Taylor,Ruiz,Mumbai,India,2024-10-14,Consumer
+C0163,Kaitlyn,Harris,Hyderabad,India,2026-05-04,Home Office
+C0164,Christopher,Young,Kolkata,India,2024-10-28,Consumer
+C0165,Thomas,Jones,Mumbai,India,2024-01-14,Consumer
+C0166,David,Bates,Delhi,India,2025-05-24,Corporate
+C0167,Charles,Gould,Bangalore,India,2025-04-24,Corporate
+C0168,Timothy,Martin,Delhi,India,2025-08-04,Corporate
+C0169,Jay,Thompson,Mumbai,India,2025-10-18,Consumer
+C0170,James,Rivers,Bangalore,India,2025-05-27,Consumer
+C0171,Carolyn,Robbins,Bangalore,India,2023-08-18,Corporate
+C0172,Lisa,Herrera,Kolkata,India,2025-01-27,Corporate
+C0173,Robert,Brooks,Pune,India,2024-04-02,Corporate
+C0174,Brandy,Jackson,Hyderabad,India,2026-01-20,Home Office
+C0175,Luis,Diaz,Kolkata,India,2026-04-23,Home Office
+C0176,Marissa,Martinez,Hyderabad,India,2024-06-27,Home Office
+C0177,Dawn,Gates,Bangalore,India,2026-05-16,Consumer
+C0178,Casey,Sandoval,Delhi,India,2024-07-22,Corporate
+C0179,Aaron,Davis,Delhi,India,2022-09-09,Consumer
+C0180,Jeffrey,Stuart,Chennai,India,2023-11-13,Home Office
+C0181,Valerie,Porter,Chennai,India,2024-03-30,Consumer
+C0182,Sarah,Mccullough,Hyderabad,India,2023-04-11,Corporate
+C0183,David,Berg,Mumbai,India,2026-02-03,Consumer
+C0184,Luis,Anderson,Chennai,India,2025-12-26,Corporate
+C0185,Anthony,Cook,Chennai,India,2025-06-06,Home Office
+C0186,Renee,Foster,Delhi,India,2023-09-22,Consumer
+C0187,Shelly,Green,Chennai,India,2023-06-30,Consumer
+C0188,Bradley,Clark,Kolkata,India,2024-04-04,Consumer
+C0189,William,Hamilton,Mumbai,India,2023-09-06,Home Office
+C0190,Stephen,Sutton,Mumbai,India,2025-06-30,Home Office
+C0191,Sean,Davis,Kolkata,India,2025-01-22,Consumer
+C0192,Luke,Bond,Bangalore,India,2023-02-08,Consumer
+C0193,Samuel,Manning,Chennai,India,2024-09-14,Consumer
+C0194,Elizabeth,Lawrence,Chennai,India,2025-07-07,Home Office
+C0195,Emily,Washington,Mumbai,India,2023-03-10,Home Office
+C0196,Terri,Hubbard,Mumbai,India,2023-05-26,Corporate
+C0197,Steven,Flynn,Hyderabad,India,2024-12-31,Home Office
+C0198,Melissa,May,Chennai,India,2026-02-01,Home Office
+C0199,Debra,Petersen,Pune,India,2024-03-17,Corporate
+C0200,Joseph,Harris,Delhi,India,2025-08-19,Home Office
+C0201,Kim,Brown,Hyderabad,India,2024-08-22,Corporate
+C0202,Robert,Alvarez,Delhi,India,2024-08-21,Corporate
+C0203,Christopher,Singh,Bangalore,India,2023-11-02,Consumer
+C0204,Matthew,Wood,Hyderabad,India,2022-10-20,Home Office
+C0205,James,Hall,Pune,India,2023-03-17,Corporate
+C0206,Brian,Fernandez,Pune,India,2023-02-17,Consumer
+C0207,Erin,Miller,Mumbai,India,2023-11-19,Corporate
+C0208,Brittany,Carroll,Chennai,India,2025-06-13,Home Office
+C0209,Jennifer,Hoover,Mumbai,India,2023-09-13,Consumer
+C0210,Sandra,Reed,Chennai,India,2023-07-14,Consumer
+C0211,Christopher,Sanders,Chennai,India,2024-10-17,Corporate
+C0212,Calvin,Carney,Delhi,India,2026-06-14,Corporate
+C0213,Dawn,Nicholson,Mumbai,India,2024-04-15,Consumer
+C0214,Juan,Shaffer,Pune,India,2022-07-03,Corporate
+C0215,Michael,Montoya,Delhi,India,2025-01-07,Corporate
+C0216,Amy,Rios,Kolkata,India,2024-08-15,Home Office
+C0217,Albert,Campbell,Hyderabad,India,2023-09-05,Corporate
+C0218,Kevin,Lucas,Chennai,India,2022-10-07,Home Office
+C0219,Jennifer,Anderson,Chennai,India,2025-03-18,Consumer
+C0220,Maria,Davis,Hyderabad,India,2023-02-09,Home Office
+C0221,Robert,Romero,Pune,India,2024-07-24,Home Office
+C0222,Nicholas,Evans,Mumbai,India,2026-05-01,Consumer
+C0223,Tyler,Morgan,Pune,India,2024-07-11,Consumer
+C0224,Jacob,Spencer,Mumbai,India,2024-05-28,Home Office
+C0225,Jason,Maxwell,Chennai,India,2022-09-11,Consumer
+C0226,Charles,Perez,Pune,India,2022-11-17,Corporate
+C0227,Sandra,Carter,Chennai,India,2024-07-25,Consumer
+C0228,Erik,Robinson,Hyderabad,India,2024-09-12,Corporate
+C0229,David,King,Delhi,India,2025-12-24,Home Office
+C0230,Valerie,Austin,Hyderabad,India,2025-08-20,Corporate
+C0231,Jessica,Nguyen,Chennai,India,2025-10-12,Corporate
+C0232,Barbara,Anderson,Pune,India,2022-11-23,Consumer
+C0233,Robert,Hernandez,Mumbai,India,2025-04-29,Home Office
+C0234,David,Rivera,Bangalore,India,2022-10-04,Corporate
+C0235,Christopher,Park,Mumbai,India,2023-02-18,Consumer
+C0236,Richard,Pratt,Pune,India,2025-10-27,Consumer
+C0237,Brian,Oconnell,Hyderabad,India,2023-07-14,Corporate
+C0238,Rachel,Miranda,Delhi,India,2024-01-20,Home Office
+C0239,Diana,Harrison,Bangalore,India,2023-06-19,Home Office
+C0240,Amber,Howard,Hyderabad,India,2025-07-23,Corporate
+C0241,Dean,Woodard,Chennai,India,2025-10-14,Consumer
+C0242,Ryan,Sullivan,Mumbai,India,2023-03-02,Consumer
+C0243,Mary,Kim,Hyderabad,India,2023-01-09,Consumer
+C0244,Nicole,Edwards,Chennai,India,2024-03-16,Consumer
+C0245,Jennifer,Lane,Kolkata,India,2024-01-04,Corporate
+C0246,Katie,Knox,Chennai,India,2024-05-31,Home Office
+C0247,Brandy,West,Delhi,India,2024-06-13,Corporate
+C0248,Bonnie,Hamilton,Delhi,India,2024-03-21,Consumer
+C0249,Deborah,Jefferson,Pune,India,2024-05-01,Corporate
+C0250,Sarah,Anderson,Kolkata,India,2024-07-29,Consumer
+C0251,Roy,Bass,Pune,India,2023-02-08,Consumer
+C0252,Heather,Valdez,Hyderabad,India,2024-12-12,Consumer
+C0253,Charles,Shields,Hyderabad,India,2024-08-28,Consumer
+C0254,Jason,Hernandez,Pune,India,2024-07-29,Home Office
+C0255,Austin,Stevens,Kolkata,India,2025-03-30,Corporate
+C0256,Anna,Mitchell,Chennai,India,2024-07-08,Home Office
+C0257,David,Rose,Delhi,India,2022-10-30,Consumer
+C0258,Ashley,Mendez,Kolkata,India,2023-09-19,Consumer
+C0259,Cynthia,Kennedy,Kolkata,India,2022-10-06,Consumer
+C0260,Samuel,Perkins,Bangalore,India,2024-03-19,Consumer
+C0261,Hunter,Cox,Delhi,India,2025-04-11,Home Office
+C0262,Donna,Roberson,Pune,India,2025-03-21,Corporate
+C0263,Joseph,Baker,Kolkata,India,2025-08-23,Home Office
+C0264,Christopher,Stuart,Kolkata,India,2025-09-11,Home Office
+C0265,Richard,Garza,Kolkata,India,2024-01-08,Consumer
+C0266,Eugene,Holloway,Pune,India,2025-08-16,Consumer
+C0267,Sean,Cole,Kolkata,India,2025-05-16,Home Office
+C0268,Kimberly,Smith,Mumbai,India,2025-12-20,Corporate
+C0269,Laura,Gilbert,Kolkata,India,2023-06-06,Consumer
+C0270,Patricia,Terry,Kolkata,India,2023-05-02,Corporate
+C0271,Adam,Mcbride,Delhi,India,2024-09-30,Consumer
+C0272,Amy,Santiago,Kolkata,India,2022-07-24,Corporate
+C0273,Lisa,Jones,Pune,India,2022-12-05,Corporate
+C0274,Henry,Roberts,Kolkata,India,2024-03-04,Consumer
+C0275,John,Brown,Delhi,India,2024-04-09,Consumer
+C0276,Paula,Golden,Hyderabad,India,2026-02-17,Consumer
+C0277,Patricia,Hendrix,Bangalore,India,2026-03-08,Corporate
+C0278,Brenda,Mcdowell,Pune,India,2024-01-15,Consumer
+C0279,Carol,Campbell,Kolkata,India,2025-03-02,Corporate
+C0280,Patricia,Patterson,Pune,India,2025-12-22,Home Office
+C0281,Bridget,Frederick,Chennai,India,2023-12-17,Corporate
+C0282,Veronica,Zimmerman,Hyderabad,India,2023-09-01,Home Office
+C0283,Kenneth,Roy,Pune,India,2025-01-11,Consumer
+C0284,Trevor,Brooks,Mumbai,India,2026-05-11,Corporate
+C0285,Billy,Fisher,Delhi,India,2022-07-20,Home Office
+C0286,Frank,Wilson,Pune,India,2025-06-11,Consumer
+C0287,Amy,Russell,Mumbai,India,2023-07-01,Home Office
+C0288,William,Miller,Bangalore,India,2024-12-24,Corporate
+C0289,Thomas,Rodriguez,Hyderabad,India,2023-10-14,Corporate
+C0290,Tasha,Atkins,Bangalore,India,2023-07-11,Home Office
+C0291,Eric,Green,Chennai,India,2024-10-16,Consumer
+C0292,Angela,Jimenez,Bangalore,India,2026-04-29,Home Office
+C0293,Jennifer,Freeman,Delhi,India,2023-10-03,Corporate
+C0294,Tina,Frank,Mumbai,India,2026-03-07,Home Office
+C0295,Melissa,Knight,Bangalore,India,2022-11-18,Consumer
+C0296,Destiny,Charles,Chennai,India,2025-03-02,Home Office
+C0297,Shawn,Anderson,Hyderabad,India,2024-12-17,Home Office
+C0298,Rachel,Taylor,Hyderabad,India,2024-11-22,Home Office
+C0299,Katherine,Castillo,Hyderabad,India,2023-10-02,Consumer
+C0300,Devin,Reynolds,Pune,India,2022-07-24,Corporate
